@@ -5,4 +5,5 @@ Used to work in software development. Currently studying at the institute for Po
 I occasionally still work as a freelance web developer but i mostly just code for my studies or for fun.
 
 work collective -> [labüroso](https://github.com/laburoso)
+
 my media art roots -> [bildspur](https://github.com/bildspur)
