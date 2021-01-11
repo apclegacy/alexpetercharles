@@ -1,5 +1,5 @@
 ### hello
 ⌨️🚲📺🎨🐈
 
-Used to work in Software Development. Currently studying at the Institute for Postindustrial Design HyperWerk at the FHNW Academy of Art and Design.
-I occasionally still work as a freelance Web Developer but i mostly just code for my studies or for fun.
+Used to work in software development. Currently studying at the institute for Postindustrial Design HyperWerk at the FHNW Academy of Art and Design.
+I occasionally still work as a freelance web developer but i mostly just code for my studies or for fun.
