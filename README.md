@@ -1,4 +1,4 @@
-### hello
+### lexiboii
 ⌨️🚲📺🎨🐈🅰️
 
 Used to work in software development. Currently studying at the institute for Postindustrial Design HyperWerk at the FHNW Academy of Art and Design.
