@@ -7,3 +7,5 @@ I occasionally still work as a freelance web developer but i mostly just code fo
 work collective -> [labüroso](https://github.com/laburoso)
 
 my media art roots -> [bildspur](https://github.com/bildspur)
+
+my own site -> [alexpetercharles](https://alexpetercharles.ch)
